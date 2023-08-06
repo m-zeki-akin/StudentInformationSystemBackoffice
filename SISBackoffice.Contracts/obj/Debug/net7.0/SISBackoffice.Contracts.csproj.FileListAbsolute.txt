@@ -1,0 +1,12 @@
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\bin\Debug\net7.0\SISBackoffice.Contracts.deps.json
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\bin\Debug\net7.0\SISBackoffice.Contracts.dll
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\bin\Debug\net7.0\SISBackoffice.Contracts.pdb
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\obj\Debug\net7.0\SISBackoffice.Contracts.csproj.AssemblyReference.cache
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\obj\Debug\net7.0\SISBackoffice.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\obj\Debug\net7.0\SISBackoffice.Contracts.AssemblyInfoInputs.cache
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\obj\Debug\net7.0\SISBackoffice.Contracts.AssemblyInfo.cs
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\obj\Debug\net7.0\SISBackoffice.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\obj\Debug\net7.0\SISBackoffice.Contracts.dll
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\obj\Debug\net7.0\refint\SISBackoffice.Contracts.dll
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\obj\Debug\net7.0\SISBackoffice.Contracts.pdb
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Contracts\obj\Debug\net7.0\ref\SISBackoffice.Contracts.dll
