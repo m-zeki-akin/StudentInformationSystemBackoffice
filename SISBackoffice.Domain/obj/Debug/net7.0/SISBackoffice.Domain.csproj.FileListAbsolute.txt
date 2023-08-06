@@ -1,0 +1,12 @@
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\bin\Debug\net7.0\SISBackoffice.Domain.deps.json
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\bin\Debug\net7.0\SISBackoffice.Domain.dll
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\bin\Debug\net7.0\SISBackoffice.Domain.pdb
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\obj\Debug\net7.0\SISBackoffice.Domain.csproj.AssemblyReference.cache
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\obj\Debug\net7.0\SISBackoffice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\obj\Debug\net7.0\SISBackoffice.Domain.AssemblyInfoInputs.cache
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\obj\Debug\net7.0\SISBackoffice.Domain.AssemblyInfo.cs
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\obj\Debug\net7.0\SISBackoffice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\obj\Debug\net7.0\SISBackoffice.Domain.dll
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\obj\Debug\net7.0\refint\SISBackoffice.Domain.dll
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\obj\Debug\net7.0\SISBackoffice.Domain.pdb
+C:\Users\Zeki\RiderProjects\SISBackoffice\SISBackoffice.Domain\obj\Debug\net7.0\ref\SISBackoffice.Domain.dll

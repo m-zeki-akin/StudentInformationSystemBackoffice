@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gr5DbN/u+bwQtW33ixvQiQHBqpCIPj8L9Dlt/AK82/I=",
+  "Source": "SISBackoffice.Api",
+  "BasePath": "_content/SISBackoffice.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

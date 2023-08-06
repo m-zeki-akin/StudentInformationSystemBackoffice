@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bo/rAAQOGwGiUWwBBNlCLtNo1CQ1ybUyq8juobvaEplvTOldmBbZU0dSk1LacbQG1J/qqjLywAQFsSZZUvNmUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeki\\RiderProjects\\SISBackoffice\\SISBackoffice.Infrastructure\\SISBackoffice.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.6.23329.7\\microsoft.extensions.configuration.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.6.23329.7\\microsoft.extensions.configuration.abstractions.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.6.23329.7\\microsoft.extensions.primitives.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.0-preview\\microsoft.identitymodel.abstractions.7.1.0-preview.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.0-preview\\microsoft.identitymodel.jsonwebtokens.7.1.0-preview.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.0-preview\\microsoft.identitymodel.logging.7.1.0-preview.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.0-preview\\microsoft.identitymodel.tokens.7.1.0-preview.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.0-preview\\system.identitymodel.tokens.jwt.7.1.0-preview.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Zeki\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
